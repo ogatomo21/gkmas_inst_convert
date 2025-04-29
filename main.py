@@ -32,6 +32,7 @@ RENAME_RULES = {
     "TopSecret": "Top Secret",
     "Top secret": "Top Secret",
     "Endress Dance": "ENDLESS DANCE",
+    "EndressDance": "ENDLESS DANCE",
     "SWEET_MAGIC": "Sweet Magic",
     "TRY IT Now": "Try it now",
     "Tryitnow": "Try it now"
